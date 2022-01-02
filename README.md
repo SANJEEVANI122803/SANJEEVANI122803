@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SANJEEVANI122803
-- 👀 I’m interested in ...codeing
-- 🌱 I’m currently learning ...diploam
+- 👀 I’m interested in ...learning
+- 🌱 I’m currently learning ...diploma in computer engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
